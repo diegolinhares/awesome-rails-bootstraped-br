@@ -1,17 +1,20 @@
-# 🇧🇷 Awesome Ruby MicroSaaS 💎
+# 🇧🇷 Awesome Rails MicroSaaS 💎
 
-Uma lista curada de ferramentas, templates, recursos e livros para desenvolvedores Ruby interessados em construir MicroSaaS de forma ágil e eficiente. Inspirado em uma abordagem Lean e bootstrapper.
+Uma lista curada de ferramentas, templates, recursos e livros para desenvolvedores Rails interessados em construir MicroSaaS de forma ágil e eficiente. Inspirado em uma abordagem Lean e bootstrapper.
 
 ---
 
-## 🛠️ **Templates**
+## 🚂 **Acelere usando Rails**
 
-Aqui estão algumas ferramentas e templates úteis para kickstart seu MicroSaaS com Ruby:
+Aqui estão algumas ferramentas e templates úteis para kickstart seu MicroSaaS com Rails:
 
 - [Bullet Train](https://bullettrain.co/) - Um kit completo para construir SaaS rapidamente com Ruby on Rails.
 - [Business Class Kit](https://businessclasskit.com/) - Templates de alta qualidade para SaaS.
 - [SaasLit](https://saaslit.com/) - Um framework leve para lançar SaaS rapidamente.
-- [Tailstart](https://github.com/bdavidxyz/tailstart) - Template Ruby com Tailwind para desenvolver SaaS.
+- [Tailstart](https://github.com/bdavidxyz/tailstart) - Template Rails com Tailwind para desenvolver SaaS.
+- [Authentication Zero](https://github.com/lazaronixon/authentication-zero) - Um gerador simples para adicionar autenticação ao seu app Rails sem dependências externas.
+- [Administration Zero](https://github.com/lazaronixon/administration-zero) - Um gerador de painel de administração fácil de usar para apps Rails.
+- [CSS Zero](https://github.com/lazaronixon/css-zero) - Um template de CSS minimalista para começar a estilizar seu app Rails rapidamente.
 
 ---
 
