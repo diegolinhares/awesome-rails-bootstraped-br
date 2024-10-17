@@ -1,4 +1,4 @@
-# Awesome Ruby MicroSaaS
+# 🇧🇷 Awesome Ruby MicroSaaS 💎
 
 Uma lista curada de ferramentas, templates, recursos e livros para desenvolvedores Ruby interessados em construir MicroSaaS de forma ágil e eficiente. Inspirado em uma abordagem Lean e bootstrapper.
 
