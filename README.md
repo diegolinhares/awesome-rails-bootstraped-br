@@ -1,12 +1,12 @@
-# 🇧🇷 Awesome Rails MicroSaaS 💎
+# 🇧🇷 Awesome Rails Bootstraped 💎
 
-Uma lista curada de ferramentas, templates, recursos e livros para desenvolvedores Rails interessados em construir MicroSaaS de forma ágil e eficiente. Inspirado em uma abordagem Lean e bootstrapper.
+Uma lista curada de ferramentas, templates, recursos e livros para desenvolvedores Rails interessados em construir negócios bootstraped de forma ágil e eficiente. Inspirado em uma abordagem Lean e bootstrapper, este repositório é voltado para a comunidade brasileira, oferecendo recursos práticos para criar, lançar e escalar produtos com Ruby on Rails.
 
 ---
 
 ## 🚂 **Acelere usando Rails**
 
-Aqui estão algumas ferramentas e templates úteis para kickstart seu MicroSaaS com Rails:
+Aqui estão algumas ferramentas e templates úteis para dar o pontapé inicial no seu negócio bootstraped com Rails:
 
 - [Bullet Train](https://bullettrain.co/) - Um kit completo para construir SaaS rapidamente com Ruby on Rails.
 - [Business Class Kit](https://businessclasskit.com/) - Templates de alta qualidade para SaaS.
@@ -20,9 +20,9 @@ Aqui estão algumas ferramentas e templates úteis para kickstart seu MicroSaaS 
 
 ## 📚 **Livros Essenciais**
 
-Conhecimento é poder! Esses livros ajudarão você a estruturar e lançar seu MicroSaaS com uma mentalidade Lean:
+Conhecimento é poder! Esses livros ajudarão você a estruturar e lançar seu negócio bootstraped com uma mentalidade Lean:
 
-- [Lean Startup](https://thebootstrappedfounder.com/bookshelf/) - Um clássico para qualquer empreendedor que deseja testar e validar suas ideias rapidamente.
+- [Bootstrapper’s Bookshelf](https://thebootstrappedfounder.com/bookshelf/) - Uma coleção essencial de livros para empreendedores que seguem a mentalidade bootstrapper.
 
 ---
 
@@ -44,7 +44,7 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 
 ---
 
-## 🌐 **Landing Page**
+## 🌐 **Landing Pages**
 
 Landing pages são essenciais para capturar leads e validar seu produto. Aqui estão algumas ferramentas para te ajudar:
 
@@ -52,18 +52,12 @@ Landing pages são essenciais para capturar leads e validar seu produto. Aqui es
 
 ---
 
-## 💻 **Recursos para Indie Hackers**
+## 💻 **Mais Recursos**
 
-Se você é um dev indie ou bootstrapper, aqui estão alguns recursos inspiradores:
-
-- [Boostraped Founder Bookshelf](https://thebootstrappedfounder.com/bookshelf/) - Um clássico para qualquer empreendedor que deseja testar e validar suas ideias rapidamente.
 - [Awesome IndieHackers](https://github.com/johackim/awesome-indiehackers) - Uma coleção de recursos para indies e bootstrap founders.
 
 ---
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR ou issue para adicionar novas ferramentas e recursos.
-
----
-
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR ou issue para adicionar novas ferramentas e recursos que possam ajudar outros desenvolvedores Rails a construir negócios bootstraped no Brasil.
