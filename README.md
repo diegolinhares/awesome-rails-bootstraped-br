@@ -91,6 +91,16 @@ Aqui estão algumas ferramentas úteis para gerar e verificar suas meta tags Ope
 
 ---
 
+## 📦 **JavaScript**
+
+Aqui estão algumas bibliotecas JavaScript úteis para integrar em seus projetos:
+
+- [Motion Primitives](https://motion-primitives.com/) - Uma biblioteca de animações simples e performáticas para a web.
+- [QR Code Styling](https://qr-code-styling.com/) - Geração de QR codes estilizados, personalizáveis e responsivos.
+- [Rough Notation](https://roughnotation.com/) - Uma biblioteca de anotações desenhadas à mão para destacar elementos na página de forma única e visualmente marcante.
+
+---
+
 ## 🎥 **Gravação de Vídeos**
 
 Aqui estão algumas ferramentas úteis para gravar vídeos de alta qualidade para seus projetos:
