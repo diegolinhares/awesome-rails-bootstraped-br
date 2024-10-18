@@ -81,6 +81,14 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 
 ---
 
+## 🎥 **Gravação de Vídeos**
+
+Aqui estão algumas ferramentas úteis para gravar vídeos de alta qualidade para seus projetos:
+
+- [Screen Studio](https://screen.studio/) - Uma ferramenta fácil de usar para gravar vídeos e compartilhar de forma rápida e eficiente.
+
+---
+
 ## 💻 **Mais Recursos**
 
 - [Awesome IndieHackers](https://github.com/johackim/awesome-indiehackers) - Uma coleção de recursos para indies e bootstrap founders.
