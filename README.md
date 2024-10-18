@@ -49,6 +49,8 @@ Landing pages são essenciais para capturar leads e validar seu produto. Aqui es
 - [PureLanding](https://purelanding.page/) - Inspiração para landing pages.
 - [Empty](https://emptydotcom.vercel.app/) - Exemplo de landing page minimalista e focada em usabilidade.
 - [Landingfolio](https://www.landingfolio.com/) - Galeria de exemplos inspiradores de landing pages de alta conversão.
+- [SaaS Landing Page](https://saaslandingpage.com/) - Uma galeria de landing pages de SaaS com curadoria, oferecendo inspiração e exemplos reais para ajudar você a criar páginas de alta conversão para o seu produto.
+
 
 ---
 
