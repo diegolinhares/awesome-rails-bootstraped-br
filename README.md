@@ -26,6 +26,8 @@ Conhecimento é poder! Esses livros ajudarão você a estruturar e lançar seu n
 - [Bootstrapper’s Bookshelf](https://thebootstrappedfounder.com/bookshelf/) - Uma coleção essencial de livros para empreendedores que seguem a mentalidade bootstrapper.
 - [Não Me Faça Pensar](https://www.altabooks.com.br/produto/nao-me-faca-pensar-atualizado/) - Clássico de Steve Krug sobre usabilidade, atualizado para a era dos dispositivos móveis. Essencial para evitar problemas de design que frustram os usuários.
 - [A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://www.amazon.com.br/Regra-N%C3%A3o-Ter-Regras-Reed-Hastings/dp/8542218993/) - Escrito por Reed Hastings, CEO da Netflix, e Erin Meyer, este livro revela os bastidores da cultura única da Netflix e como seus princípios controversos impulsionaram a empresa a se tornar uma das maiores potências do entretenimento mundial.
+- [Receita Previsível: Como Implementar a Metodologia Revolucionária de Vendas Outbound](https://www.amazon.com.br/Receita-Previs%C3%ADvel-Metodologia-Revolucion%C3%A1ria-Resultados/dp/8550800651/) - Escrito por Aaron Ross e Marylou Tyler, este livro é considerado a "Bíblia de Vendas do Vale do Silício". A segunda edição revisada e ampliada aborda a metodologia outbound que tem ajudado milhares de empresas a tornarem suas receitas mais previsíveis e escaláveis.
+
 
 
 ---
