@@ -32,6 +32,15 @@ Conhecimento é poder! Esses livros ajudarão você a estruturar e lançar seu n
 
 ---
 
+## 🤖 **AI**
+
+Aqui estão alguns recursos para integrar inteligência artificial em seus projetos Rails:
+
+- [Raix Rails](https://github.com/OlympiaAI/raix-rails) - Ruby AI eXtensions for Rails.
+- [Langchainrb Rails](https://github.com/patterns-ai-core/langchainrb_rails) - Integração do Langchain com Ruby on Rails para incorporar modelos de linguagem avançados em suas aplicações.
+
+---
+
 ## 🌐 **Landing Pages**
 
 Landing pages são essenciais para capturar leads e validar seu produto. Aqui estão algumas ferramentas para te ajudar:
