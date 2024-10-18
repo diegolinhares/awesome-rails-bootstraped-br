@@ -22,7 +22,11 @@ Aqui estão algumas ferramentas e templates úteis para dar o pontapé inicial n
 
 Conhecimento é poder! Esses livros ajudarão você a estruturar e lançar seu negócio bootstraped com uma mentalidade Lean:
 
+- [Getting Real e Shape Up](https://livros.37signals.com/) - Livros da 37signals em português, abordando a criação de produtos de software com foco em simplicidade e eficiência.
 - [Bootstrapper’s Bookshelf](https://thebootstrappedfounder.com/bookshelf/) - Uma coleção essencial de livros para empreendedores que seguem a mentalidade bootstrapper.
+- [Não Me Faça Pensar](https://www.altabooks.com.br/produto/nao-me-faca-pensar-atualizado/) - Clássico de Steve Krug sobre usabilidade, atualizado para a era dos dispositivos móveis. Essencial para evitar problemas de design que frustram os usuários.
+- [A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://www.amazon.com.br/Regra-N%C3%A3o-Ter-Regras-Reed-Hastings/dp/8542218993/) - Escrito por Reed Hastings, CEO da Netflix, e Erin Meyer, este livro revela os bastidores da cultura única da Netflix e como seus princípios controversos impulsionaram a empresa a se tornar uma das maiores potências do entretenimento mundial.
+
 
 ---
 
