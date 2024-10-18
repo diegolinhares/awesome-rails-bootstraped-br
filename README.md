@@ -81,6 +81,14 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 
 ---
 
+## 🎨 **Ícones**
+
+Aqui estão alguns recursos para encontrar ícones de alta qualidade para seus projetos:
+
+- [Simple Icons](https://simpleicons.org/?q=indie) - Uma coleção de ícones SVG de marcas populares, perfeita para integrar em seus projetos.
+
+---
+
 ## 📲 **Open Graph - Pré-visualizações Sociais**
 
 O protocolo **Open Graph** é utilizado para controlar como suas páginas são exibidas quando compartilhadas em redes sociais. Ele permite gerar pré-visualizações ricas, com títulos, descrições e imagens, o que aumenta o engajamento e a visibilidade dos seus links.
