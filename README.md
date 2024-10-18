@@ -91,6 +91,14 @@ Aqui estão alguns recursos para encontrar ícones de alta qualidade para seus p
 
 ---
 
+## 📝 **HTML Resources**
+
+Aqui está um repositório com diversos recursos úteis para trabalhar com elementos HTML:
+
+- [HEAD](https://github.com/joshbuchea/HEAD) - Um guia simples e completo para elementos HTML `<head>`, contendo várias sugestões e boas práticas para SEO, performance, acessibilidade e compatibilidade em suas páginas web.
+
+---
+
 ## 📲 **Open Graph - Pré-visualizações Sociais**
 
 O protocolo **Open Graph** é utilizado para controlar como suas páginas são exibidas quando compartilhadas em redes sociais. Ele permite gerar pré-visualizações ricas, com títulos, descrições e imagens, o que aumenta o engajamento e a visibilidade dos seus links.
