@@ -46,6 +46,7 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 - [Master UI](https://masterui.co/) - Uma coleção de UI kits personalizáveis.
 - [UIBits](https://uibits.co/) - Pequenos componentes UI que podem ser integrados rapidamente.
 - [Toools](https://www.toools.design/) - Vários kits e ferramentas para designers.
+- [Untitled UI](https://www.untitledui.com/) - Uma coleção de componentes UI para web personalizáveis.
 
 ---
 
@@ -60,6 +61,7 @@ Landing pages são essenciais para capturar leads e validar seu produto. Aqui es
 ## 💻 **Mais Recursos**
 
 - [Awesome IndieHackers](https://github.com/johackim/awesome-indiehackers) - Uma coleção de recursos para indies e bootstrap founders.
+- [Ecommerce de Produtos Visuais](https://elements.envato.com/) - Uma coleção de templates de figma, layouts e recursos visuais para designers e desenvolvedores.
 
 ---
 
