@@ -56,7 +56,7 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 
 Landing pages são essenciais para capturar leads e validar seu produto. Aqui estão algumas ferramentas para te ajudar:
 
-- [PureLanding](https://purelanding.page/) - Plataforma para criar landing pages focadas em conversão.
+- [PureLanding](https://purelanding.page/) - Inspiração para landing pages.
 
 ---
 
