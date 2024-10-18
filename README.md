@@ -15,6 +15,7 @@ Aqui estão algumas ferramentas e templates úteis para dar o pontapé inicial n
 - [Authentication Zero](https://github.com/lazaronixon/authentication-zero) - Um gerador simples para adicionar autenticação ao seu app Rails sem dependências externas.
 - [Administration Zero](https://github.com/lazaronixon/administration-zero) - Um gerador de painel de administração fácil de usar para apps Rails.
 - [CSS Zero](https://github.com/lazaronixon/css-zero) - Um template de CSS minimalista para começar a estilizar seu app Rails rapidamente.
+- [Jumpstart Pro](https://jumpstartrails.com/) - Um template premium para construir SaaS com Ruby on Rails, incluindo autenticação, assinatura, gerenciamento de equipes, e muito mais.
 - [Pay](https://github.com/pay-rails/pay) - Uma engine de pagamentos para Rails, com suporte para Stripe, Paddle, Braintree, Lemon Squeezy e Fake Processor.
 
 ---
