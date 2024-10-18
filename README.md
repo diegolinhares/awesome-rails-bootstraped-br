@@ -96,6 +96,10 @@ Aqui estão algumas ferramentas úteis para gerar e verificar suas meta tags Ope
 Aqui estão algumas ferramentas úteis para gravar vídeos de alta qualidade para seus projetos:
 
 - [Screen Studio](https://screen.studio/) - Uma ferramenta fácil de usar para gravar vídeos e compartilhar de forma rápida e eficiente.
+- [Tella](https://www.tella.tv/) - Ferramenta para criar vídeos gravados e compartilhar com facilidade, ideal para tutoriais e apresentações.
+- [mmhmm](https://www.mmhmm.app/home) - Ferramenta de vídeo que permite criar apresentações interativas e engajantes, com fundos e layouts personalizáveis.
+- [Gemoo Focusee](https://gemoo.com/focusee/) - Plataforma para gravar e organizar vídeos de forma eficiente, focada em produtividade e colaboração.
+- [Loom](https://www.loom.com/) - Ferramenta popular para gravar e compartilhar vídeos de forma rápida, ideal para feedbacks, explicações e apresentações.
 
 ---
 
