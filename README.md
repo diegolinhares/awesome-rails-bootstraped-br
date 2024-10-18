@@ -15,6 +15,7 @@ Aqui estão algumas ferramentas e templates úteis para dar o pontapé inicial n
 - [Authentication Zero](https://github.com/lazaronixon/authentication-zero) - Um gerador simples para adicionar autenticação ao seu app Rails sem dependências externas.
 - [Administration Zero](https://github.com/lazaronixon/administration-zero) - Um gerador de painel de administração fácil de usar para apps Rails.
 - [CSS Zero](https://github.com/lazaronixon/css-zero) - Um template de CSS minimalista para começar a estilizar seu app Rails rapidamente.
+- [Pay](https://github.com/pay-rails/pay) - Uma engine de pagamentos para Rails, com suporte para Stripe, Paddle, Braintree, Lemon Squeezy e Fake Processor.
 
 ---
 
@@ -66,12 +67,14 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 - [Master UI](https://masterui.co/) - Uma coleção de UI kits personalizáveis.
 - [UIBits](https://uibits.co/) - Pequenos componentes UI que podem ser integrados rapidamente.
 - [Toools](https://www.toools.design/) - Vários kits e ferramentas para designers.
+- [Untitled UI](https://www.untitledui.com/) - Uma coleção de componentes UI para web personalizáveis.
 
 ---
 
 ## 💻 **Mais Recursos**
 
 - [Awesome IndieHackers](https://github.com/johackim/awesome-indiehackers) - Uma coleção de recursos para indies e bootstrap founders.
+- [Ecommerce de Produtos Visuais](https://elements.envato.com/) - Uma coleção de templates de figma, layouts e recursos visuais para designers e desenvolvedores.
 
 ---
 
