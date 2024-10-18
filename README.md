@@ -29,10 +29,27 @@ Conhecimento é poder! Esses livros ajudarão você a estruturar e lançar seu n
 - [Receita Previsível: Como Implementar a Metodologia Revolucionária de Vendas Outbound](https://www.amazon.com.br/Receita-Previs%C3%ADvel-Metodologia-Revolucion%C3%A1ria-Resultados/dp/8550800651/) - Escrito por Aaron Ross e Marylou Tyler, este livro é considerado a "Bíblia de Vendas do Vale do Silício". A segunda edição revisada e ampliada aborda a metodologia outbound que tem ajudado milhares de empresas a tornarem suas receitas mais previsíveis e escaláveis.
 - [Apaixone-se pelo Problema, Não pela Solução](https://www.amazon.com.br/Apaixone-se-pelo-problema-n%C3%A3o-solu%C3%A7%C3%A3o/dp/6555443803/) - Escrito por Uri Levine, cofundador do Waze e do Moovit, este livro revela os bastidores da criação de dois unicórnios e oferece orientações valiosas para empreendedores. Embora o foco seja em venture capital, muitas das lições podem ser aproveitadas por quem busca construir negócios inovadores e escaláveis.
 
+---
 
+## 🌐 **Landing Pages**
 
+Landing pages são essenciais para capturar leads e validar seu produto. Aqui estão algumas ferramentas para te ajudar:
+
+- [PureLanding](https://purelanding.page/) - Inspiração para landing pages.
+- [Empty](https://emptydotcom.vercel.app/) - Exemplo de landing page minimalista e focada em usabilidade.
+- [Landingfolio](https://www.landingfolio.com/) - Galeria de exemplos inspiradores de landing pages de alta conversão.
 
 ---
+
+## 🎨 **Ilustrações**
+
+Aqui estão alguns recursos para encontrar ilustrações de alta qualidade para seus projetos:
+
+- [Blush](https://blush.design/collections) - Coleções de ilustrações personalizáveis para diversos estilos e temas.
+- [unDraw](https://undraw.co/illustrations) - Ilustrações gratuitas e personalizáveis para projetos criativos.
+- [Storyset](https://storyset.com/) - Ilustrações animadas e estáticas que podem ser personalizadas.
+- [Popsy](https://popsy.co/illustrations/) - Ilustrações gratuitas para usar em seus designs e projetos.
+
 
 ## 🖼️ **Mockups e Prototipação**
 
@@ -49,14 +66,6 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 - [Master UI](https://masterui.co/) - Uma coleção de UI kits personalizáveis.
 - [UIBits](https://uibits.co/) - Pequenos componentes UI que podem ser integrados rapidamente.
 - [Toools](https://www.toools.design/) - Vários kits e ferramentas para designers.
-
----
-
-## 🌐 **Landing Pages**
-
-Landing pages são essenciais para capturar leads e validar seu produto. Aqui estão algumas ferramentas para te ajudar:
-
-- [PureLanding](https://purelanding.page/) - Inspiração para landing pages.
 
 ---
 
