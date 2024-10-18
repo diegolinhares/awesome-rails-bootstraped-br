@@ -81,6 +81,16 @@ Se você não quer começar do zero na parte de UI, esses kits podem ajudar a ac
 
 ---
 
+## 📲 **Open Graph - Pré-visualizações Sociais**
+
+O protocolo **Open Graph** é utilizado para controlar como suas páginas são exibidas quando compartilhadas em redes sociais. Ele permite gerar pré-visualizações ricas, com títulos, descrições e imagens, o que aumenta o engajamento e a visibilidade dos seus links.
+
+Aqui estão algumas ferramentas úteis para gerar e verificar suas meta tags Open Graph:
+
+- [OpenGraph.dev](https://opengraph.dev/) - Gerador e visualizador de meta tags Open Graph. Permite pré-visualizar e gerar as tags de maneira fácil e rápida com apenas um clique, garantindo que suas páginas sejam exibidas de forma otimizada nas redes sociais.
+
+---
+
 ## 🎥 **Gravação de Vídeos**
 
 Aqui estão algumas ferramentas úteis para gravar vídeos de alta qualidade para seus projetos:
