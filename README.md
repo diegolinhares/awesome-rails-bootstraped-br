@@ -131,6 +131,58 @@ Aqui estão algumas ferramentas úteis para gravar vídeos de alta qualidade par
 
 ---
 
+## 🌍 **Subreddits para Lançar seu Startup**
+
+Se você está procurando canais para lançar e promover seu produto, aqui estão 40+ subreddits do Reddit que podem ser ótimos para ganhar visibilidade, obter feedback e atrair os primeiros usuários:
+
+- r/SaaS
+- r/microsaas
+- r/Startup_Ideas
+- r/startup
+- r/indiehackers
+- r/DotCom
+- r/webdev
+- r/Automate
+- r/InternetIsBeautiful
+- r/dataisbeautiful
+- r/design_critiques
+- r/programming
+- r/learnprogramming
+- r/RoastMyStartup
+- r/IMadeThis
+- r/IndieBiz
+- r/AlphaandBetausers
+- r/GrowthHacking
+- r/Digitalnomad
+- r/SideProject
+- r/SmallBusiness
+- r/LifeProTips
+- r/lifehacks
+- r/explainlikeimfive
+- r/todayilearned
+- r/Promotereddit
+- r/Analytics
+- r/Content_marketing
+- r/Advertising
+- r/overemployed
+- r/jobsearchhacks
+- r/Entrepreneur
+- r/EntrepreneurRideAlong
+- r/Startups
+- r/Growmybusiness
+- r/Linkbuilding
+- r/SEO
+- r/Freepromote
+- r/SocialMediaMarketing
+- r/PPC
+- r/AskMarketing
+
+Para que seu post tenha um bom desempenho, ofereça dicas úteis e conte uma história com a qual as pessoas se identifiquem. Mencione seu startup de forma sutil ou apenas se alguém perguntar.
+
+Fonte: [fi_investor no X](https://x.com/fi_investor/status/1848162481480622147)
+
+---
+
 ## 💻 **Mais Recursos**
 
 - [Awesome IndieHackers](https://github.com/johackim/awesome-indiehackers) - Uma coleção de recursos para indies e bootstrap founders.
