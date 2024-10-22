@@ -131,7 +131,7 @@ Aqui estão algumas ferramentas úteis para gravar vídeos de alta qualidade par
 
 ---
 
-## 🌍 **Subreddits para Lançar seu Startup**
+## 🌍 **Subreddits para fazer lançamento**
 
 Se você está procurando canais para lançar e promover seu produto, aqui estão 40+ subreddits do Reddit que podem ser ótimos para ganhar visibilidade, obter feedback e atrair os primeiros usuários:
 
